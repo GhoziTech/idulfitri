@@ -5,7 +5,7 @@ html,body {
     height:100%;
     position:absolute;
     color: white;
-    background: linear-gradient(25deg,#dfe6e9,#557eef);
+    background: linear-gradient(25deg,#6da0b6,#183a95);
     text-shadow: 0px 1px 2px rgba(0,0,0,0.1);
   }
   .container  {
